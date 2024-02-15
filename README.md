@@ -1,5 +1,4 @@
-Deep Learning Roadmap
-------------------------------
+# Deep Learning Roadmap
 
 ### 1\. **Prerequisites:**
 
